@@ -1,15 +1,15 @@
 Fazer o dowload e pegar o caminho da instalação do programa para colocar no código.
-/b
+<br>
 https://github.com/UB-Mannheim/tesseract/wiki
 
 Fazer o dowload da lingua portuguesa.
-/b
+<br>
 https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata
 
 instalar o tesseract 
-/b 
+<br>
 pip install pytesseract
 
 instalar OpenCV
-/b
+<br>
 pip install opencv-python
