@@ -2,7 +2,7 @@ Fazer o dowload e pegar o caminho da instalação do programa para colocar no c�
 <br>
 https://github.com/UB-Mannheim/tesseract/wiki
 
-Fazer o dowload da lingua portuguesa.
+Fazer o dowload da lingua portuguesa. Pegar o arquivo e colocar dentro da pasta tessdata.
 <br>
 https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata
 
